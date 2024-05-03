@@ -1,0 +1,34 @@
+.logo{
+    height: 50px;
+    width: 100px;
+}
+.png1{
+    width: 50px;
+    height: 300px;
+}
+.container{
+    margin-bottom: 70px;
+}
+.maj{
+    text-align:center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.pale img{ 
+    
+    height: 180px;
+    width: 180px;
+}
+.orange-bg{
+    border-radius: 10px;
+}
+.yes{
+    text-align: center;
+}
+.pale2 img{ 
+    
+    height: 200px;
+    width: 250px;
+}
